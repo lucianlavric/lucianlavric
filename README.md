@@ -13,7 +13,7 @@ I'm currently building out a couple of cool projects, including [Portal](https:/
 ## 💬 Languages
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img height=40 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  
 
-![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=iankorovinsky&count_private=true)
+![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlavric&count_private=true)
 
 ## 📫 How to Connect:
 If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucianlavric/)!
