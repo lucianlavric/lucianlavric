@@ -5,13 +5,14 @@
 </p>
 
 ## 😊 About Me! 
-Hey, I'm Luka 👋, I'm a Computer Science student at the University of Western and a full-stack developer. I enjoy creating futuristic tech at hackathons and meeting fellow developers passionate about building cool projects!
+Hey, I'm Luka 👋, I'm a Computer Science student at Western University and a full-stack developer. I enjoy creating futuristic tech at hackathons and meeting fellow developers passionate about building cool projects!
 
-<!-- ## 🌱 I’m Currently Working On
-I'm currently building out a couple of cool projects, including [Portal](https://wearportal.co) - a wearable AI tool that lets you rewind your memories! I also spend almost every other weekend destroying my sleep schedule at hackathons, so check out my [DevPost!](https://devpost.com/ian-korovinsky/). Finally, I'm also part of a few entrepreneurship incubators, such as Velocity and Eigenspace, where I love meeting cool people :) -->
+## 🌱 I’m Currently Working On
+I'm currently building out a couple of cool projects, including a grant dashboard for [Fund Homecare Canada](https://fundhomecare.ca/) - a non profit focused on providing individuals in palliative care! I also spend almost every other weekend destroying my sleep schedule at hackathons, and am working on improving the website for our school's hackathon [HackWestern](https://www.hackwestern.com/).
 
 ## 💬 Languages
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img height=40 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img height=40 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
 
 ![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlavric&count_private=true)
 
