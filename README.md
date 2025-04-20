@@ -28,6 +28,11 @@ I’m currently building out a couple of exciting projects, including a grant da
 ## 📫 How to Connect:
 If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucianlavric/)!
 
+ <a href="/" target="_self">
+        <img src="https://komarev.com/ghpvc/?username=lucianlavric&style=flat-square&color=653da8"
+           alt="Profile Views" />
+    </a>
+
 
 
 <!--
