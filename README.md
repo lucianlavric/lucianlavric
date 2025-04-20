@@ -20,9 +20,9 @@ I’m currently building out a couple of exciting projects, including a grant da
     width="49%" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianlavric&layout=compact&langs_count=6&theme=default" 
-    width="49%" 
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianlavric&layout=compact&langs_count=6&theme=default&hide=jupyter%20notebook" 
+  width="400"
+/>
 </div>
 
 ## 📫 How to Connect:
