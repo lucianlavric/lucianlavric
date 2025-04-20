@@ -14,10 +14,21 @@ I’m currently building out a couple of exciting projects, including a grant da
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
 
-![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlavric&count_private=true)
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=lucianlavric&count_private=true&show_icons=true&theme=default" 
+    width="49%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianlavric&layout=compact&langs_count=6&theme=default" 
+    width="49%" 
+  />
+</div>
 
 ## 📫 How to Connect:
 If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucianlavric/)!
+
+
 
 <!--
 **lucianlavric/lucianlavric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
