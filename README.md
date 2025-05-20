@@ -15,15 +15,16 @@ I’m currently building out a couple of exciting projects, including a grant da
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lucianlavric&count_private=true&show_icons=true&theme=default" 
-    width="49%" 
-  />
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianlavric&layout=compact&langs_count=6&theme=default&hide=jupyter%20notebook" 
-  width="400"
-/>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucianlavric" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianlavric&layout=compact&langs_count=8&ide=jupyter%20notebook&card_width=320" />
+</a>
 </div>
+
+
+
 
 ## 📫 How to Connect:
 If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucianlavric/)!
