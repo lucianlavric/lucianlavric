@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center" margin="auto">
-  <img src="https://www.lambdatest.com/blog/monkey-testing-with-webdriverio/" alt="Hey, I'm Luka (Lucian) 👋!" width="100%" />
+  <img src="https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif" alt="Hey, I'm Luka (Lucian) 👋!" width="100%" />
 </p>
 
 ## 😊 About Me! 
