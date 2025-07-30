@@ -12,6 +12,7 @@ I’m currently building out a couple of exciting projects including a Canadian 
 
 ## 👷‍♂️ I’ve Built...
 - A grant collecting dashboard for [Fund Homecare Canada](https://fundhomecare.ca/), a nonprofit dedicated to supporting individuals in palliative care
+- A tool that analyzes video footage to see when users are being [gaslit](gaslytics-sigma.vercel.app)
 - A NBA draftboard for the 2025 NBA draft 
 
 ## 💬 Languages
