@@ -8,7 +8,11 @@
 Hey, I'm Luka 👋, I'm a Computer Science student at Western University and a full-stack developer. I’ve worked in roles where I developed web applications, contributed to nonprofit projects, and applied data science techniques in real-world settings. I’m passionate about problem-solving and improving my programming expertise!
 
 ## 🌱 I’m Currently Working On
-I’m currently building out a couple of exciting projects, including a grant dashboard for [Fund Homecare Canada](https://fundhomecare.ca/), a nonprofit dedicated to supporting individuals in palliative care. Since I spend nearly every other weekend pushing my limits at hackathons (and wrecking my sleep schedule in the process), it felt like a natural next step to help improve the experience for others. I’m now contributing to my university’s hackathon, [HackWestern](https://www.hackwestern.com/), by helping revamp and improve its website.
+I’m currently building out a couple of exciting projects including a Canadian tech internship list for Summer 2026 as well as contributing to my university’s hackathon, [HackWestern](https://www.hackwestern.com/), by helping revamp and improve its website!
+
+## 👷‍♂️ I’ve Built...
+- A grant collecting dashboard for [Fund Homecare Canada](https://fundhomecare.ca/), a nonprofit dedicated to supporting individuals in palliative care
+
 
 ## 💬 Languages
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
