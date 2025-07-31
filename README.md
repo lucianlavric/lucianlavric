@@ -11,7 +11,7 @@ Hey, I'm Luka 👋, I'm a Computer Science student at Western University and a f
 I’m currently building out a couple of exciting projects including a Canadian tech internship list for Summer 2026 as well as contributing to my university’s hackathon, [HackWestern](https://www.hackwestern.com/), by helping revamp and improve its website!
 
 ## 👷‍♂️ I’ve Built...
-- A tool for Livestream monitoring for the 2025 Canadian Federal election!
+- A tool for major broadcasters to monitor their Livestreaming remotely without the need of a working internet connection during the 2025 Canadian Federal election!
 - A grant collecting dashboard for [Fund Homecare Canada](https://fundhomecare.ca/), a nonprofit dedicated to supporting individuals in palliative care
 - A tool that analyzes video footage to see when users are being [gaslit](gaslytics-sigma.vercel.app)
 - A NBA draftboard for the 2025 NBA draft
