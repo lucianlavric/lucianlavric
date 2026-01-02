@@ -21,10 +21,8 @@ I’m currently building out a couple of exciting projects including a Canadian 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
 
 <div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucianlavric" />
-</a>
-
+  ![Stats](./profile/stats.svg)
+</div>
 
 
 
