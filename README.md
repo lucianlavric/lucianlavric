@@ -24,10 +24,6 @@ I’m currently building out a couple of exciting projects including a Canadian 
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucianlavric" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianlavric&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=320" />
-</a>
-</div>
 
 
 
