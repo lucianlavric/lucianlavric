@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lucian (Luka) Lavric's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 179, Total Commits  (last year) : 644, Total PRs: 106, Total Issues: 475, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 179, Total Commits  (last year) : 648, Total PRs: 108, Total Issues: 476, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 45.93589517292252;
+        stroke-dashoffset: 45.4631638508115;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >644</text>
+      >648</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >106</text>
+      >108</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >475</text>
+      >476</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
