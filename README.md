@@ -1,50 +1,15 @@
-## Hi there 👋
+## Luka (Lucian) Lavric
+CS @ Western University · full-stack & systems · SWE intern, Global Banking & Markets @ Scotiabank (Summer 2026)
 
-<p align="center" margin="auto">
-  <img src="https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif" alt="Hey, I'm Luka (Lucian) 👋!" width="100%" />
-</p>
+### Projects
+- **[Canada Tech Internships](https://github.com/lucianlavric/CanadaTechInternships-Summer2026)** — ⭐165. A community-maintained list of 2026 Canadian tech internships.
+- **[suntheme](https://github.com/lucianlavric/suntheme)** — Rust CLI that retimes Ghostty & Neovim themes to sunrise/sunset, installable via a [Homebrew tap](https://github.com/lucianlavric/homebrew-tap).
+- **[tinytransformer](https://github.com/lucianlavric/tinytransformer)** — a transformer implemented from scratch in C, written to learn the internals.
 
-## 😊 About Me! 
-Hey, I'm Luka 👋, I'm a Computer Science student at Western University and a full-stack developer. I’ve worked in roles where I developed web applications, contributed to nonprofit projects, and applied data science techniques in real-world settings. I’m passionate about problem-solving and improving my programming expertise!
+### Open-source contributions — [19 merged PRs](https://github.com/search?q=is%3Apr+author%3Alucianlavric+is%3Amerged&type=pullrequests)
+- **[Hack Western](https://hackwestern.com)** — migrated the app to Node 24, built site-wide SEO infrastructure, and shipped a promo landing page plus a range of mobile and UX fixes. `Next.js` `TypeScript`
+- **[ChildCan](https://childcan.vercel.app)** (UWO-TSI, Western's student tech org) — integrated Sanity CMS with live preview, added a Content-Security-Policy pass, and improved mobile performance for a childhood-cancer charity's site. `Next.js` `Sanity`
 
-## 🌱 I’m Currently Working On
-I’m currently building out a couple of exciting projects including a Canadian tech internship list for Summer 2026 as well as contributing to my university’s hackathon, [HackWestern](https://www.hackwestern.com/), by helping revamp and improve its website!
+**Stack:** TypeScript · React / Next.js · Python · Rust · C · Postgres / Supabase
 
-## 👷‍♂️ I’ve Built...
-- A tool for major broadcasters to monitor their Livestreaming remotely without the need of a working internet connection during the 2025 Canadian Federal election!
-- A grant collecting dashboard for [Fund Homecare Canada](https://fundhomecare.ca/), a nonprofit dedicated to supporting individuals in palliative care
-- A tool that analyzes video footage to see when users are being [gaslit](gaslytics-sigma.vercel.app)
-- A draftboard for the 2025 NBA draft
-
-## 💬 Languages
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp; <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
-
-  ![Stats](./profile/stats.svg)
-
-
-
-## 📫 How to Connect:
-If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucianlavric/)!
-
- <a href="/" target="_self">
-        <img src="https://komarev.com/ghpvc/?username=lucianlavric&style=flat-square&color=653da8"
-           alt="Profile Views" />
-    </a>
-
-
-
-<!--
-**lucianlavric/lucianlavric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/lucianlavric/)
